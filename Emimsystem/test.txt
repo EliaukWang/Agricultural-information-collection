@@ -1,0 +1,8 @@
+[ERROR] 2021-04-01 21:26:55,373 method:com.briup.environment.util.impl.LogImpl.error(LogImpl.java:46)
+/ by zero
+[ERROR] 2021-04-01 21:29:02,458 method:com.briup.environment.util.impl.LogImpl.error(LogImpl.java:46)
+/ by zero
+[INFO ] 2021-04-01 21:30:37,047 method:com.briup.environment.util.impl.LogImpl.info(LogImpl.java:33)
+/ by zero
+[ERROR] 2021-04-01 22:01:31,457 method:com.briup.environment.util.impl.LogImpl.error(LogImpl.java:46)
+/ by zero
